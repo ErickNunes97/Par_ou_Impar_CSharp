@@ -1,0 +1,14 @@
+C:\Users\erick\source\repos\Par_ou_Impar\Par_ou_Impar\bin\Debug\netcoreapp3.1\Par_ou_Impar.exe
+C:\Users\erick\source\repos\Par_ou_Impar\Par_ou_Impar\bin\Debug\netcoreapp3.1\Par_ou_Impar.deps.json
+C:\Users\erick\source\repos\Par_ou_Impar\Par_ou_Impar\bin\Debug\netcoreapp3.1\Par_ou_Impar.runtimeconfig.json
+C:\Users\erick\source\repos\Par_ou_Impar\Par_ou_Impar\bin\Debug\netcoreapp3.1\Par_ou_Impar.runtimeconfig.dev.json
+C:\Users\erick\source\repos\Par_ou_Impar\Par_ou_Impar\bin\Debug\netcoreapp3.1\Par_ou_Impar.dll
+C:\Users\erick\source\repos\Par_ou_Impar\Par_ou_Impar\bin\Debug\netcoreapp3.1\Par_ou_Impar.pdb
+C:\Users\erick\source\repos\Par_ou_Impar\Par_ou_Impar\obj\Debug\netcoreapp3.1\Par_ou_Impar.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Par_ou_Impar\Par_ou_Impar\obj\Debug\netcoreapp3.1\Par_ou_Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\Par_ou_Impar\Par_ou_Impar\obj\Debug\netcoreapp3.1\Par_ou_Impar.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\Par_ou_Impar\Par_ou_Impar\obj\Debug\netcoreapp3.1\Par_ou_Impar.AssemblyInfo.cs
+C:\Users\erick\source\repos\Par_ou_Impar\Par_ou_Impar\obj\Debug\netcoreapp3.1\Par_ou_Impar.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Par_ou_Impar\Par_ou_Impar\obj\Debug\netcoreapp3.1\Par_ou_Impar.dll
+C:\Users\erick\source\repos\Par_ou_Impar\Par_ou_Impar\obj\Debug\netcoreapp3.1\Par_ou_Impar.pdb
+C:\Users\erick\source\repos\Par_ou_Impar\Par_ou_Impar\obj\Debug\netcoreapp3.1\Par_ou_Impar.genruntimeconfig.cache
